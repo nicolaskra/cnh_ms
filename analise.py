@@ -79,8 +79,6 @@ graph_3 = px.scatter(avg_top10, x='MUNICIPIO', y='Total',  title='Média de idad
 graph_3.show()
 
 
-# Gráfico com chat GPT
-
 # Criando o gráfico de dispersão
 graph_3 = px.scatter(avg_top10, x='MUNICIPIO', y='Total',
                      title='Média de idade por Município',
